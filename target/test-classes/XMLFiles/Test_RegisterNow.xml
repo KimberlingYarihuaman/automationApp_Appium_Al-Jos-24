@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<suite name="Suite1" verbose="1" >
+    <test name="Test Register Now">
+        <groups>
+            <run>
+                <exclude name="testExclude" />
+            </run>
+        </groups>
+        <classes>
+            <class name="TestCases.Test_RegisterNow"/>
+        </classes>
+    </test>
+</suite>

@@ -1,0 +1,3 @@
+pac.lima;Lima Veronica;V;23490056;kimberling.yarihuaman@gmail.com;kimberling.yarihuaman@gmail.com;Y247doc.;Y247doc.;1;4142328650;2123008765;QAAC0CL2M325
+pac.ricardo;Ricardo Sanz;V;21678009;kimberling.yarihuaman@gmail.com;kimberling.yarihuaman@gmail.com;Y247doc.;Y247doc.;Femenino;4126357789;2123008700;QAACV8M0DHWE
+pac.pruebas;Ricardo Sanz;V;21678009;kimberling.yarihuaman@gmail.com;kimberling.yarihuaman@gmail.com;Y247doc.;Y247doc.;Masculino;4126357789;2123008700;QAACV8M0DHWE

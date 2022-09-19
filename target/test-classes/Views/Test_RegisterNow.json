@@ -1,0 +1,97 @@
+{
+  "Register Now": {
+    "GetFieldBy": "xpath",
+    "ValueToFind": "//android.view.View[@content-desc='¡Regístrate ahora!']"
+  },
+
+  "User": {
+    "GetFieldBy": "text",
+    "ValueToFind": "Usuario (*)"
+  },
+
+  "FullName": {
+    "GetFieldBy": "text",
+    "ValueToFind": "Nombre Completo (*)"
+  },
+
+  "Document Type": {
+    "GetFieldBy": "content-desc",
+    "ValueToFind": "Tipo de Documento (*)"
+  },
+
+  "Document Type Value": {
+    "GetFieldBy": "content-desc",
+    "ValueToFind": "V"
+  },
+
+  "Document Number": {
+    "GetFieldBy": "text",
+    "ValueToFind": "Número de Documento (*)"
+  },
+
+  "Email": {
+    "GetFieldBy": "text",
+    "ValueToFind": "Correo Electrónico (*)"
+  },
+
+  "Confirm Email": {
+    "GetFieldBy": "text",
+    "ValueToFind": "Confirmar Correo (*)"
+  },
+
+  "Password": {
+    "GetFieldBy": "text",
+    "ValueToFind": "Contraseña (*)"
+  },
+
+  "Confirm Password": {
+    "GetFieldBy": "text",
+    "ValueToFind": "Confirmar Contraseña (*)"
+  },
+
+  "Date of Birth": {
+    "GetFieldBy": "text",
+    "ValueToFind": "Fecha de Nacimiento (*)"
+  },
+
+  "Accept Calendar": {
+    "GetFieldBy": "content-desc",
+    "ValueToFind": "Aceptar"
+  },
+
+  "Gender": {
+    "GetFieldBy": "content-desc",
+    "ValueToFind": "Género (*)"
+  },
+
+  "Gender Value": {
+    "GetFieldBy": "content-desc",
+    "ValueToFind": "Femenino"
+  },
+
+  "Phone Number": {
+    "GetFieldBy": "text",
+    "ValueToFind": "Número de Teléfono (*)"
+  },
+
+  "Other Phone": {
+    "GetFieldBy": "text",
+    "ValueToFind": "Otro Teléfono"
+  },
+
+  "Activation Code": {
+    "GetFieldBy": "text",
+    "ValueToFind": "Código de Activación (*)"
+  },
+
+  "Raddio Button": {
+    "GetFieldBy": "className",
+    "ValueToFind": "android.widget.CheckBox"
+  },
+
+  "Save Button": {
+    "GetFieldBy": "content-desc",
+    "ValueToFind": "Guardar"
+  }
+
+}
